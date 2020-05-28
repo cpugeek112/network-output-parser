@@ -1,2 +1,2 @@
 # network-output-parser
-parser for network devices outputs
+parser for network devices output
